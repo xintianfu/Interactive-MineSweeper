@@ -2,7 +2,7 @@
 Interactive MineSweeper is a dynamic and visually engaging redesign of the classic Minesweeper game, developed using JavaFX. The project focuses on creating an interactive, animated, and user-friendly experience, integrating playful visual feedback, intuitive animations, and multiple gameplay modes to enhance user engagement.
 
 Key Features & Interactions<br>
-🏁 StartFrame
+🏁 **StartFrame**
 
 The entry screen introduces players with a lively interface.
 
@@ -20,7 +20,7 @@ The entry screen introduces players with a lively interface.
 
 · Clicking the Start button transitions smoothly to the SelectionFrame.
 
-⚙️ SelectionFrame
+⚙️ **SelectionFrame**
 
 Players can choose between four gameplay modes — Easy, Medium, Advanced, and Custom.
 
@@ -42,7 +42,7 @@ Players can choose between four gameplay modes — Easy, Medium, Advanced, and C
 
 · Selecting a mode (e.g., Medium) opens the GameFrame with corresponding grid settings.
 
-💣 GameFrame
+💣 **GameFrame**
 
 This is the main gameplay interface, featuring a breathing gradient background for visual depth.
 At the top are functional elements: logo, mine counter, timer, pause/restart buttons, and mode menu.
@@ -94,7 +94,7 @@ Medium mode 20*20 square grid, hard mode 20*20 hexagonal grid<br>
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/b9c7542e-eb1f-43c3-9906-5c1f419be4dd" />
 </p>
 
-🧩 CustomizeFrame
+🧩 **CustomizeFrame**
 
 Players can customize their own game layout with animated feedback for each action.
 
