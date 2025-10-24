@@ -11,7 +11,7 @@ The entry screen introduces players with a lively interface.
 
 · The Start button features a zooming and color-lightening animation when clicked.
 
-· The background includes rotating, zooming, and blurring effects, making the scene visually appealing.
+· The background includes rotating, zooming, and blurring effects, making the scene visually appealing.<br>
 <img width="134" height="144" alt="image" src="https://github.com/user-attachments/assets/421b2a2c-cee7-40e9-b3fe-a73ab2740bc2" />
 
 · Clicking the Start button transitions smoothly to the SelectionFrame.
@@ -20,10 +20,10 @@ The entry screen introduces players with a lively interface.
 
 Players can choose between four gameplay modes — Easy, Medium, Advanced, and Custom.
 
-· Hovering over a button triggers a shaking animation, indicating interactivity.
+· Hovering over a button triggers a shaking animation, indicating interactivity.<br>
 <img width="135" height="141" alt="image" src="https://github.com/user-attachments/assets/26cec8aa-3c01-4a03-ba2b-0b94a0b8c6d1" />
 
-· The background uses gradient and color overlay animations.
+· The background uses gradient and color overlay animations.<br>
 <img width="136" height="143" alt="image" src="https://github.com/user-attachments/assets/38a6c88f-5cd0-4e91-8e01-4fd91ba35458" />
 
 · Easy Mode: 10×10 square grid
