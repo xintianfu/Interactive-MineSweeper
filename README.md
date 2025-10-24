@@ -47,7 +47,7 @@ Players can choose between four gameplay modes — Easy, Medium, Advanced, and C
 This is the main gameplay interface, featuring a breathing gradient background for visual depth.
 At the top are functional elements: logo, mine counter, timer, pause/restart buttons, and mode menu.
 
-<u>Top Area Interactions</u>:
+**Top Area Interactions**:
 
 · Hovering over the mine counter displays a tooltip (e.g., “Current unopened squares: 99”), which updates dynamically.<br>
 <p align="center">
@@ -63,7 +63,7 @@ At the top are functional elements: logo, mine counter, timer, pause/restart but
 
 · The Mode Menu allows switching between modes, confirmed by an animated pop-up.
 
-<u>Gameplay Area</u>:
+**Gameplay Area**:
 
 · Hovering over a cell triggers a zoom animation, showing cursor position.
 
@@ -83,7 +83,7 @@ And When you right-click, the mouse turns into a gif of a tiny man with a flag:<
 
 · After 20 seconds of inactivity, a pop-up reminder appears.
 
-<u>Bottom Area</u>:
+**Bottom Area**:
 
 · Contains the flag icon, hint button, and remaining hint counter.
 
