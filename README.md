@@ -75,7 +75,7 @@ Gameplay Area:
 
 · Right-click or drag the flag icon to mark a cell. The cursor changes into a flag-carrying animation.<br>
 <p align="center">
-<img width="400" alt="image" src="https://github.com/user-attachments/assets/bd39df58-7a58-449c-be26-3571aac5a80e" />
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/bd39df58-7a58-449c-be26-3571aac5a80e" />
 </p>
 And When you right-click, the mouse turns into a gif of a tiny man with a flag:<img width="31" height="23" alt="image" src="https://github.com/user-attachments/assets/01ab4cb0-6b2d-46ec-956e-5722adf2fdef" />
 
@@ -89,18 +89,20 @@ Bottom Area:
 
 · Clicking the hint button decreases the hint count and briefly flashes a flag on a hidden bomb cell.
 Medium mode 20*20 square grid, hard mode 20*20 hexagonal grid<br>
+<p align="center">
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/57430c92-dd63-42d0-8d75-ae9583a87c1a" />
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/b9c7542e-eb1f-43c3-9906-5c1f419be4dd" />
-
+</p>
 
 🧩 CustomizeFrame
 
 Players can customize their own game layout with animated feedback for each action.
 
 · Hovering over text fields or buttons triggers a jitter animation.<br>
+<p align="center">
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/6514282e-47b9-4a36-8fe1-67057eb1f033" />
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/50a88f8b-845d-411f-8287-352900937a20" />
-
+</p>
 · The background features color gradients and overlays for visual continuity.
 
 · Input validation ensures logical settings:
