@@ -7,10 +7,12 @@ Key Features & Interactions
 The entry screen introduces players with a lively interface.
 
 · The mouse cursor is animated as a small man detecting mines. When the left mouse button is clicked, the animation changes to a detection action.
+<img width="137" height="143" alt="image" src="https://github.com/user-attachments/assets/801bb7b2-4573-44db-a607-8a886cfaa550" />
 
 · The Start button features a zooming and color-lightening animation when clicked.
 
 · The background includes rotating, zooming, and blurring effects, making the scene visually appealing.
+<img width="134" height="144" alt="image" src="https://github.com/user-attachments/assets/421b2a2c-cee7-40e9-b3fe-a73ab2740bc2" />
 
 · Clicking the Start button transitions smoothly to the SelectionFrame.
 
@@ -19,8 +21,10 @@ The entry screen introduces players with a lively interface.
 Players can choose between four gameplay modes — Easy, Medium, Advanced, and Custom.
 
 · Hovering over a button triggers a shaking animation, indicating interactivity.
+<img width="135" height="141" alt="image" src="https://github.com/user-attachments/assets/26cec8aa-3c01-4a03-ba2b-0b94a0b8c6d1" />
 
 · The background uses gradient and color overlay animations.
+<img width="136" height="143" alt="image" src="https://github.com/user-attachments/assets/38a6c88f-5cd0-4e91-8e01-4fd91ba35458" />
 
 · Easy Mode: 10×10 square grid
 
@@ -51,9 +55,9 @@ Gameplay Area:
 
 · Left-click reveals a cell (blank, number, or mine).
 
-    · If a mine is clicked, a pop-up announces game over, and the restart button icon turns into a crying face.
+   · If a mine is clicked, a pop-up announces game over, and the restart button icon turns into a crying face.
 
-    · If the player wins, a victory pop-up displays total playtime.
+   · If the player wins, a victory pop-up displays total playtime.
 
 · Right-click or drag the flag icon to mark a cell. The cursor changes into a flag-carrying animation.
 
@@ -77,9 +81,9 @@ Players can customize their own game layout with animated feedback for each acti
 
 · Input validation ensures logical settings:
 
-    · If rows exceed 20, a shaking warning animation appears.
+   · If rows exceed 20, a shaking warning animation appears.
 
-    · If an invalid bomb number is entered, a zooming warning pop-up alerts the player.
+   · If an invalid bomb number is entered, a zooming warning pop-up alerts the player.
 
 · Once valid settings are entered (e.g., a 15×20 hexagonal grid with 23 bombs), the custom game starts smoothly.
 
