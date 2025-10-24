@@ -6,7 +6,7 @@ Key Features & Interactions
 
 The entry screen introduces players with a lively interface.
 
-· The mouse cursor is animated as a small man detecting mines. When the left mouse button is clicked, the animation changes to a detection action.
+· The mouse cursor is animated as a small man detecting mines. When the left mouse button is clicked, the animation changes to a detection action.<br>
 <img width="137" height="143" alt="image" src="https://github.com/user-attachments/assets/801bb7b2-4573-44db-a607-8a886cfaa550" />
 
 · The Start button features a zooming and color-lightening animation when clicked.
