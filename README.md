@@ -26,7 +26,7 @@ Players can choose between four gameplay modes — Easy, Medium, Advanced, and C
 
 · Hovering over a button triggers a shaking animation, indicating interactivity.<br>
 <p align="center">
-<img width="400" alt="image" src="https://github.com/user-attachments/assets/26cec8aa-3c01-4a03-ba2b-0b94a0b8c6d1" />
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/26cec8aa-3c01-4a03-ba2b-0b94a0b8c6d1" />
 </p>
 
 · The background uses gradient and color overlay animations.<br>
