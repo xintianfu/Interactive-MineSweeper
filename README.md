@@ -50,12 +50,16 @@ At the top are functional elements: logo, mine counter, timer, pause/restart but
 Top Area Interactions:
 
 · Hovering over the mine counter displays a tooltip (e.g., “Current unopened squares: 99”), which updates dynamically.<br>
-<img width="186" height="103" alt="image" src="https://github.com/user-attachments/assets/52755526-42ce-4dfa-abd4-e7a520637d69" />
+<p align="center">
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/52755526-42ce-4dfa-abd4-e7a520637d69" />
+</p>
 
 · Clicking Pause triggers different pop-ups depending on the game state, each appearing with a zoom animation.
 
 · Hovering over Reset shows a tooltip: “restart”<br>
-<img width="127" height="42" alt="image" src="https://github.com/user-attachments/assets/b528abba-93d5-4a80-a4dd-45b8caab4f46" />
+<p align="center">
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/b528abba-93d5-4a80-a4dd-45b8caab4f46" />
+</p>
 
 · The Mode Menu allows switching between modes, confirmed by an animated pop-up.
 
