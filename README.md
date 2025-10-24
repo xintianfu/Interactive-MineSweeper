@@ -62,6 +62,7 @@ Gameplay Area:
    · If the player wins, a victory pop-up displays total playtime.
 
 · Right-click or drag the flag icon to mark a cell. The cursor changes into a flag-carrying animation.<br>
+
 <img width="110" height="60" alt="image" src="https://github.com/user-attachments/assets/bd39df58-7a58-449c-be26-3571aac5a80e" />
 And When you right-click, the mouse turns into a gif of a tiny man with a flag:<img width="31" height="23" alt="image" src="https://github.com/user-attachments/assets/01ab4cb0-6b2d-46ec-956e-5722adf2fdef" />
 
